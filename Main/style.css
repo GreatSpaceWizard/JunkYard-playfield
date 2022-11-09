@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(197, 114, 20);
+  }
+  
+  h1 {
+    color: rgb(166, 207, 19);
+    margin-left:90px;
+  }
+  h2 {
+    color: rgb(22, 77, 65);
+    margin-left: 20px;
+  }
+
+  h3 {
+    color: rgb(208, 233, 235);
+    margin-left: 25px;
+  }
+
+ 
+.city {
+    background-color: rgb(216, 41, 10);
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.banan {
+    <!--margin = UNO flyttar tvärtom -->
+  margin-left: 185px;
+color: rgb(93, 223, 6)
+}
+
+.pond {
+display: flexbox;
+justify-content:flex-end;
+
+border: 5px solid black;
+border-width: 5px;
+
+border min-height: 400px; position: top:
+}
+
